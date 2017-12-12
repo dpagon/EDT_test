@@ -46,6 +46,20 @@
     </type>
     <fullTextSearch>Use</fullTextSearch>
   </attributes>
+  <attributes uuid="b1ab18ce-769e-4806-91bb-a3887386ab48">
+    <name>Реквизит1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Реквизит1</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <fullTextSearch>Use</fullTextSearch>
+  </attributes>
   <forms uuid="f4c438d4-342e-4bd8-b54b-29162a090125">
     <name>ФормаДокумента</name>
     <synonym>
